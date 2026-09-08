@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Roy</h1>
-<h3 align="center">A Full Stack Developer learning AI-ML and cybersecurity, currently pursuing my BTech in Student at IIIT Kottayam,Kerala </h3>
+<h3 align="center">A Full Stack Developer learning AI-ML and cybersecurity, currently pursuing my BTech at  IIIT Kottayam  </h3>
 
 - How to reach me **manroy2028@gmail.com**
 
