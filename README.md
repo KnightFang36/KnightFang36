@@ -8,20 +8,19 @@
 
 </div>
 
-## About Me
+## 🧠 About Me
 
--  Pursuing **B.Tech @ IIIT Kottayam**
--  Reach me at **manroy2028@gmail.com**
+- 🎓 Pursuing **B.Tech @ IIIT Kottayam**
+- 📬 Reach me at **manroy2028@gmail.com**
 
-
-### Connect with me
+### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasroy01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/manasroy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manroy2028@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/knightfang36)
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 **Languages**
 
@@ -81,7 +80,9 @@
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="38"/>
 </p>
 
-## GitHub Stats
+---
+
+## 🏆 GitHub Stats
 
 <div align="center">
 
@@ -94,14 +95,19 @@
 
 </div>
 
-<!-- CONTRIBUTION SNAKE: enable the included GitHub Action first (see snake.yml),
-then uncomment this block and commit.
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knightfang36/knightfang36/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knightfang36/knightfang36/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/knightfang36/knightfang36/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/knightfang36/knightfang36/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </picture>
--->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0x2cb67d,0x7f5af0&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+*watch the snake eat my contributions 🍴 — regenerated daily by GitHub Actions*
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0x2cb67d,0x7f5af0&height=120&section=footer&text=%E2%9A%A1%20Thanks%20for%20visiting!%20Have%20a%20great%20day&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
