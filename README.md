@@ -8,19 +8,19 @@
 
 </div>
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 Pursuing **B.Tech @ IIIT Kottayam**
-- 📬 Reach me at **manroy2028@gmail.com**
+-  Pursuing **B.Tech @ IIIT Kottayam**
+-  Reach me at **manroy2028@gmail.com**
 
-### 🔗 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasroy01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/manasroy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manroy2028@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/knightfang36)
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 **Languages**
 
@@ -82,7 +82,7 @@
 
 ---
 
-## 🏆 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -95,8 +95,6 @@
 
 </div>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -105,7 +103,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/knightfang36/knightfang36/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </picture>
 
-*watch the snake eat my contributions 🍴 — regenerated daily by GitHub Actions*
+*watch the snake eat my contributions"
 
 </div>
 
