@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="680" viewBox="0 0 480 680" role="img" aria-labelledby="title desc">
+<title id="title">Repository signal — public project snapshot</title>
+<desc id="desc">Updated 2026-10-28. 5 original public projects. Source-language bytes: Python 52.5%, Go 28.9%, TypeScript 15.7%, CSS 2.5%, Other 0.4%. Forks and the profile repository are excluded. Repository pushes are not deployment activity or individual commit authorship.</desc>
+<rect x=".5" y=".5" width="479" height="679" rx="14" fill="#101719" stroke="#344344"/>
+<circle cx="28" cy="36" r="4" fill="#d5f786"/>
+<text x="43" y="41" fill="#d5f786" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="600" letter-spacing="2">REPOSITORY SIGNAL</text>
+<text x="456" y="41" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" text-anchor="end">28 OCT 2026</text>
+<text x="24" y="100" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="-1">The work, in code.</text>
+<text x="24" y="132" fill="#a6b6b4" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="20" font-weight="400" >05 original public projects</text>
+<text x="24" y="182" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" letter-spacing="1">SOURCE LANGUAGES / BY BYTES</text>
+<defs><clipPath id="bar"><rect x="24" y="204" width="432" height="13" rx="6"/></clipPath></defs>
+<g clip-path="url(#bar)">
+<rect x="24.000" y="204" width="226.909" height="13" fill="#e7bd75"/>
+<rect x="250.909" y="204" width="124.679" height="13" fill="#85d8ca"/>
+<rect x="375.588" y="204" width="67.832" height="13" fill="#86bdf5"/>
+<rect x="443.421" y="204" width="11.014" height="13" fill="#b5a4eb"/>
+<rect x="454.434" y="204" width="1.566" height="13" fill="#a4b2b0"/>
+</g>
+<circle cx="28.0" cy="246" r="4" fill="#e7bd75"/>
+<text x="42.0" y="251" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400" >Python</text>
+<text x="215.0" y="251" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" text-anchor="end">52.5%</text>
+<circle cx="244.0" cy="246" r="4" fill="#85d8ca"/>
+<text x="258.0" y="251" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400" >Go</text>
+<text x="431.0" y="251" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" text-anchor="end">28.9%</text>
+<circle cx="28.0" cy="277" r="4" fill="#86bdf5"/>
+<text x="42.0" y="282" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400" >TypeScript</text>
+<text x="215.0" y="282" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" text-anchor="end">15.7%</text>
+<circle cx="244.0" cy="277" r="4" fill="#b5a4eb"/>
+<text x="258.0" y="282" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400" >CSS</text>
+<text x="431.0" y="282" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" text-anchor="end">2.5%</text>
+<circle cx="28.0" cy="308" r="4" fill="#a4b2b0"/>
+<text x="42.0" y="313" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400" >Other</text>
+<text x="215.0" y="313" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" text-anchor="end">0.4%</text>
+<path d="M24 351H456" stroke="#344344"/>
+<text x="24" y="392" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" letter-spacing="1">LATEST REPOSITORY PUSHES</text>
+<text x="24" y="436" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" >FinTrace</text>
+<text x="456" y="434" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" text-anchor="end">23 OCT 26</text>
+<text x="24" y="458" fill="#8adbd0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" >Python</text>
+<path d="M24 470H456" stroke="#344344" opacity=".6"/>
+<text x="24" y="506" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" >VidMind</text>
+<text x="456" y="504" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" text-anchor="end">13 JUL 26</text>
+<text x="24" y="528" fill="#8adbd0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" >TypeScript</text>
+<path d="M24 540H456" stroke="#344344" opacity=".6"/>
+<text x="24" y="576" fill="#f0f1e9" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" >LangChain</text>
+<text x="456" y="574" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" text-anchor="end">04 JUL 26</text>
+<text x="24" y="598" fill="#8adbd0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" >Python</text>
+<path d="M24 612H456" stroke="#344344"/>
+<text x="24" y="635" fill="#a6b6b4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" >GITHUB REST API / ORIGINAL PUBLIC SOURCES</text>
+<text x="24" y="655" fill="#a6b6b4" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="400" >Original repositories only. Dated snapshot.</text>
+</svg>
